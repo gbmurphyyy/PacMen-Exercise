@@ -1,1 +1,3 @@
 # PacMenExercise
+
+The goal
