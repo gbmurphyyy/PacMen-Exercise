@@ -1,1 +1,1 @@
-# PacMen-Exercise
+# PacMenExercise
